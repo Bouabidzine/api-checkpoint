@@ -1,0 +1,37 @@
+.users {
+
+  width: 300px;
+  background-color: orange;
+  text-align: center;
+  padding: 20px;
+  margin-top: 100px;
+  border-radius: 10px;
+}
+.users img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+}
+.list-ofuser {
+  width: 400px;
+  margin-top: 50px;
+
+}
+.list-ofuser img{
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+}
+.list{
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  flex-wrap: wrap;
+  margin: 0;
+  margin-top: 100px;
+}
+.list img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+}
